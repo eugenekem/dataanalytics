@@ -1,3 +1,5 @@
 This is the first version of my Capstone Project notes.Contains references 
 to key research papers and methodologies used in data analytics.
 
+Outside huh
+
